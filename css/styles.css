@@ -1,0 +1,33 @@
+body {
+  background-color: #FFF;
+}
+
+
+.shoeA {
+ content : url(https://www.flightclub.com/media/catalog/product/cache/1/image/1600x1140/9df78eab33525d08d6e5fb8d27136e95/0/1/012597_1.jpg);
+ width: 500px;
+ height: 500px;
+}
+
+.shoeB {
+  content : url(https://alixblog.com/wp-content/uploads/2015/09/nike-air-jordan-aliexpress.jpg);
+  width: 500px;
+  height: 500px;
+ }
+
+.shoeC {
+  content : url(http://media.nj.com/crime/photo/jordan.jpg);
+  width: 500px;
+  height: 500px;
+ }
+
+#productImg {
+  border: 2px;
+  width: 500px;
+  height: 500px;
+
+}
+
+#receipt {
+
+}
